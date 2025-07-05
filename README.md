@@ -1,5 +1,3 @@
 # Some Python Projects
 
-cos why not
-
-im probably not updating this :)
+A dump for all the random Python Projects I've done.
