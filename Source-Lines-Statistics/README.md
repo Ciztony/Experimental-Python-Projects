@@ -12,10 +12,10 @@ How to use:
 
 - Second question takes in the following syntax:
 
-If you want the whole file to be counted, the syntax is as follows: <file extension>, <another file extension>
+If you want the whole file to be counted, the syntax is as follows: file extension, another file extension
 Example: json, txt
 
-If you want to exclude comments, the syntax is as follows: <file extension>([<opening delimiter> | <closing delimiter>] ^ <single comment type>),
+If you want to exclude comments, the syntax is as follows: file extension([opening delimiter | closing delimiter] ^ single comment type),
 Example: cpp([/* | */] ^ //), py(#)
 
 Notes:
